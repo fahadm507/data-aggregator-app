@@ -1,0 +1,30 @@
+.app-container {
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 1200px;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.filters-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  padding-left: 24px;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filters-container select {
+  width: 100px;
+  padding: 10px;
+}
+
+.dropdown-container {
+  margin: 10px;
+}
+
+.reset-button {
+  margin: 10px;
+}
